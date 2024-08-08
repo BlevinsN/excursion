@@ -1,5 +1,6 @@
 body{
 	font-family: verdana;
+	font-weight: normal;
 	background-color: black;
 }
 h1{
@@ -7,13 +8,29 @@ h1{
 	font-size: 50px;
 	text-align: center;
 }
-h5{
+h2{
+	color: white;
+	font-size: 42px;
+	font-weight: 300;
+	text-align: center;
+}
+a{
 	color: aquamarine;
 	font-size: 16px;
 	text-align: center;
+	display:block;
 }
 h6{
 	color: gray;
 	font-size: 21px;
 	text-align: center;
+}
+video{
+	display: block;
+	margin: 0 auto;
+}
+p{
+	font-family: verdana;
+	color:gray;
+	text-align: right;
 }
